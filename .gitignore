@@ -1,0 +1,16 @@
+*-debug.log
+*-error.log
+newrelic_agent.log
+node_modules/
+lib/
+.idea/
+reports/
+npm_auth_token
+.serverless
+.build
+.env
+terraform/.terraform
+docker/1password-credentials.json
+docker/.env
+volume
+.DS_Store
