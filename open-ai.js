@@ -20,13 +20,13 @@ async function main() {
         content: [
           {
             type: "text",
-            text: "This is error screenshot of toll agency. Only return a result one of following, please select the option. Case 1: Suspended, Case 2: Wrong credential, Case 3: Blank screen, Case 4: Stop in login screen, Case 5: Others",
+            text: "This is error screenshot of toll agency. Only return a result one of following, only return the option below. Case 1: Suspended, Case 2: Wrong credential, Case 3: Stop in Login screen, Case 4: Blank screen. If none of the above, please return Case 5: Others",
           },
           {
             type: "image_url",
             image_url: {
               url: `data:image/png;base64,${base64_encode(
-                "./screenshots/ca-tollroad/res1_loading.png"
+                "./screenshots/ca-tollroad/stg.png"
               )}`,
             },
           },
