@@ -4,6 +4,14 @@ import fs from "fs";
 
 dotenv.config();
 
+const CA_TOLLOROAD_TEST_PHOTOS = {
+  blankScreen: "./screenshots/ca-tollroad/res1_blank_screen.png",
+  stopInLoginScreen: "./screenshots/ca-tollroad/res1_stop_in_login_screen.png",
+  reactivated: "./screenshots/ca-tollroad/res1_reactivated.png",
+  suspended: "./screenshots/ca-tollroad/res1_suspended.png",
+  wrongCredential: "./screenshots/ca-tollroad/res1_wrong_credential.png",
+};
+
 const openai = new OpenAI({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
 });
@@ -22,13 +30,13 @@ async function main() {
         content: [
           {
             type: "text",
-            text: "This is error screenshot of toll agency. Only return a result one of following, only return the option below. Case 1: Suspended, Case 2: Wrong credential, Case 3: Stop in Login screen, Case 4: Blank screen. If none of the above, please return Case 5: Others",
+            text: "This is error screenshot of toll agency. Only return the text from following 4 options. 'Suspended', 'Wrong credential', 'Stop in Login screen', 'Blank screen'. If none of the above, please return 'Others'",
           },
           {
             type: "image_url",
             image_url: {
               url: `data:image/png;base64,${base64_encode(
-                "./screenshots/ca-tollroad/stg.png"
+                CA_TOLLOROAD_TEST_PHOTOS.suspended
               )}`,
             },
           },
