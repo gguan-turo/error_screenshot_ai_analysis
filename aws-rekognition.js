@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 import AWS from "aws-sdk";
+import fs from "fs";
 
 dotenv.config();
 
@@ -11,11 +12,15 @@ new AWS.Config();
 AWS.config.update({region: "us-west-1"});
 const client = new AWS.Rekognition();
 const params = {
+  // Read Image from S3 bucket
+  // Image: {
+  //   S3Object: {
+  //     Bucket: bucket,
+  //     Name: photo,
+  //   },
+  // },
   Image: {
-    S3Object: {
-      Bucket: bucket,
-      Name: photo,
-    },
+    Bytes: fs.readFileSync("./screenshots/ca-tollroad/res1_suspended.png"),
   },
 };
 client.detectText(params, function (err, response) {
@@ -23,11 +28,11 @@ client.detectText(params, function (err, response) {
     console.log(err, err.stack); // handle error if an error occurred
   } else {
     // console.log(`Detected Text for: ${photo}`);
-    // console.log(response);
-    const allText = response.TextDetections.reduce(
-      (text, curr) => (text += curr.DetectedText + " "),
-      ""
-    );
-    console.log(allText);
+    console.log(response);
+    // const allText = response.TextDetections.reduce(
+    //   (text, curr) => (text += curr.DetectedText + " "),
+    //   ""
+    // );
+    // console.log(allText);
   }
 });
