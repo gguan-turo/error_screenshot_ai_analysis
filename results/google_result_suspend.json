@@ -1,0 +1,1277 @@
+{
+  faceAnnotations: [],
+  landmarkAnnotations: [],
+  logoAnnotations: [],
+  labelAnnotations: [],
+  textAnnotations: [
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: 'en',
+      description: 'The Toll Roads\n' +
+        'of Orange County\n' +
+        'My Account\n' +
+        'Main Content Footer Menu\n' +
+        'My Account >\n' +
+        'Dashboard\n' +
+        'Account Information\n' +
+        'Payment\n' +
+        'Payment Methods\n' +
+        'Vehicles\n' +
+        'Transponders\n' +
+        'Statements & Activity\n' +
+        'Gift Certificates\n' +
+        'Back to Main Content\n' +
+        'ACCOUNTS\n' +
+        'My Account Login\n' +
+        'Open an Account\n' +
+        'FasTrak\n' +
+        'Compare Accounts\n' +
+        'Mobile App\n' +
+        'HOME ACCOUNTS. TOLLS\n' +
+        'TOLLS\n' +
+        'Pay Toll(s)\n' +
+        'Toll Violations\n' +
+        'Map & Rates\n' +
+        'Toll Calculator\n' +
+        'Cash Payments\n' +
+        'Reactivate Account\n' +
+        'NEWS & ALERTS\n' +
+        'NEWS & ALERTS\n' +
+        'Closures & Detours\n' +
+        'Promotions\n' +
+        'Newsroom\n' +
+        'HELP\n' +
+        'Sticker Transponder\n' +
+        'Ways to Pay Your Toll\n' +
+        'Rental Vehicles\n' +
+        'For Visitors\n' +
+        'Military Program\n' +
+        'Contact Us\n' +
+        'FAQs\n' +
+        'Tutorials\n' +
+        'HELP\n' +
+        'The Toll Roads\n' +
+        'Copyright © 2019 Transportation Corridor Agencies. All rights reserved.\n' +
+        'Sitemap Language Disclaimer Terms of Use Privacy Policy Account License Agreement Contact Us\n' +
+        'The Toll Roads Irvine Service Center\n' +
+        '125 Pacifica, Irvine, CA 92618 U.S.A.\n' +
+        'Customer Service (949) 727-4800\n' +
+        'Welcome,\n' +
+        'Contact Us\n' +
+        'ABOUT TCA -\n' +
+        'Mock1\n' +
+        'Environmental\n' +
+        'Commitment\n' +
+        'Our records indicate that your account has been suspended and requires immediate attention\n' +
+        'Please contact us by phone at 949-727-4800. Representatives are available to assist you Monday through\n' +
+        'Friday from 8 am to 6 pm.\n' +
+        'Account# 1111111\n' +
+        'ABOUT\n' +
+        'Background & History\n' +
+        'Projects\n' +
+        'Investor Information\n' +
+        'Public Meetings &\n' +
+        'Agendas\n' +
+        'Leadership\n' +
+        'Transparency\n' +
+        'SELECT LANGUAGE\n' +
+        'Search\n' +
+        'Careers\n' +
+        'Doing Business\n' +
+        'Development Fee\n' +
+        'Program\n' +
+        'LOG OUT\n' +
+        'FOLLOW US\n' +
+        'DOWNLOAD THE\n' +
+        'MOBILE APP\n' +
+        'LOG IN\n' +
+        'SIGN UP',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'The',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Roads',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'of',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Orange',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'County',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'My',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Main',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Content',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Footer',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Menu',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'My',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '>',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Dashboard',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Information',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Payment',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Payment',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Methods',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Vehicles',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Transponders',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Statements',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '&',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Activity',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Gift',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Certificates',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Back',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'to',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Main',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Content',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ACCOUNTS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'My',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Login',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Open',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'an',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'FasTrak',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Compare',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Accounts',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Mobile',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'App',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'HOME',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ACCOUNTS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '.',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'TOLLS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'TOLLS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Pay',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '(',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 's',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: ')',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Violations',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Map',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '&',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Rates',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Calculator',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Cash',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Payments',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Reactivate',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Account',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'NEWS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '&',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ALERTS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'NEWS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '&',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ALERTS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Closures',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '&',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Detours',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Promotions',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Newsroom',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'HELP',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Sticker',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Transponder',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Ways',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'to',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Pay',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Your',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Rental',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Vehicles',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'For',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Visitors',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Military',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Program',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Contact',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Us',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'FAQs',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Tutorials',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'HELP',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'The',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Toll',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Roads',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'Copyright',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: [Object]
+    },
+    ... 127 more items
+  ],
+  localizedObjectAnnotations: [],
+  safeSearchAnnotation: null,
+  imagePropertiesAnnotation: null,
+  error: null,
+  cropHintsAnnotation: null,
+  fullTextAnnotation: {
+    pages: [ [Object] ],
+    text: 'The Toll Roads\n' +
+      'of Orange County\n' +
+      'My Account\n' +
+      'Main Content Footer Menu\n' +
+      'My Account >\n' +
+      'Dashboard\n' +
+      'Account Information\n' +
+      'Payment\n' +
+      'Payment Methods\n' +
+      'Vehicles\n' +
+      'Transponders\n' +
+      'Statements & Activity\n' +
+      'Gift Certificates\n' +
+      'Back to Main Content\n' +
+      'ACCOUNTS\n' +
+      'My Account Login\n' +
+      'Open an Account\n' +
+      'FasTrak\n' +
+      'Compare Accounts\n' +
+      'Mobile App\n' +
+      'HOME ACCOUNTS. TOLLS\n' +
+      'TOLLS\n' +
+      'Pay Toll(s)\n' +
+      'Toll Violations\n' +
+      'Map & Rates\n' +
+      'Toll Calculator\n' +
+      'Cash Payments\n' +
+      'Reactivate Account\n' +
+      'NEWS & ALERTS\n' +
+      'NEWS & ALERTS\n' +
+      'Closures & Detours\n' +
+      'Promotions\n' +
+      'Newsroom\n' +
+      'HELP\n' +
+      'Sticker Transponder\n' +
+      'Ways to Pay Your Toll\n' +
+      'Rental Vehicles\n' +
+      'For Visitors\n' +
+      'Military Program\n' +
+      'Contact Us\n' +
+      'FAQs\n' +
+      'Tutorials\n' +
+      'HELP\n' +
+      'The Toll Roads\n' +
+      'Copyright © 2019 Transportation Corridor Agencies. All rights reserved.\n' +
+      'Sitemap Language Disclaimer Terms of Use Privacy Policy Account License Agreement Contact Us\n' +
+      'The Toll Roads Irvine Service Center\n' +
+      '125 Pacifica, Irvine, CA 92618 U.S.A.\n' +
+      'Customer Service (949) 727-4800\n' +
+      'Welcome,\n' +
+      'Contact Us\n' +
+      'ABOUT TCA -\n' +
+      'Mock1\n' +
+      'Environmental\n' +
+      'Commitment\n' +
+      'Our records indicate that your account has been suspended and requires immediate attention\n' +
+      'Please contact us by phone at 949-727-4800. Representatives are available to assist you Monday through\n' +
+      'Friday from 8 am to 6 pm.\n' +
+      'Account# 1111111\n' +
+      'ABOUT\n' +
+      'Background & History\n' +
+      'Projects\n' +
+      'Investor Information\n' +
+      'Public Meetings &\n' +
+      'Agendas\n' +
+      'Leadership\n' +
+      'Transparency\n' +
+      'SELECT LANGUAGE\n' +
+      'Search\n' +
+      'Careers\n' +
+      'Doing Business\n' +
+      'Development Fee\n' +
+      'Program\n' +
+      'LOG OUT\n' +
+      'FOLLOW US\n' +
+      'DOWNLOAD THE\n' +
+      'MOBILE APP\n' +
+      'LOG IN\n' +
+      'SIGN UP'
+  },
+  webDetection: null,
+  productSearchResults: null,
+  context: null
+}

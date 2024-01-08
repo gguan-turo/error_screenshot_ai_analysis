@@ -1,0 +1,766 @@
+{
+  TextDetections: [
+    {
+      DetectedText: 'C',
+      Type: 'LINE',
+      Id: 0,
+      Confidence: 69.6993637084961,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'SELECT',
+      Type: 'LINE',
+      Id: 1,
+      Confidence: 97.61277770996094,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Contact Us',
+      Type: 'LINE',
+      Id: 2,
+      Confidence: 96.50917053222656,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'The To',
+      Type: 'LINE',
+      Id: 3,
+      Confidence: 92.2324447631836,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Roads',
+      Type: 'LINE',
+      Id: 4,
+      Confidence: 89.84123229980469,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Search',
+      Type: 'LINE',
+      Id: 5,
+      Confidence: 97.75975036621094,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'of Orange County',
+      Type: 'LINE',
+      Id: 6,
+      Confidence: 99.11896514892578,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'HOME',
+      Type: 'LINE',
+      Id: 7,
+      Confidence: 98.97157287597656,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ACCOUNTS',
+      Type: 'LINE',
+      Id: 8,
+      Confidence: 86.3532485961914,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'TOLLS -',
+      Type: 'LINE',
+      Id: 9,
+      Confidence: 44.38383483886719,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'NEWS & ALERTS -',
+      Type: 'LINE',
+      Id: 10,
+      Confidence: 86.15023040771484,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'HELP',
+      Type: 'LINE',
+      Id: 11,
+      Confidence: 73.03176879882812,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ABOUT TCA',
+      Type: 'LINE',
+      Id: 12,
+      Confidence: 89.67228698730469,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'My Account',
+      Type: 'LINE',
+      Id: 13,
+      Confidence: 99.26240539550781,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Mock1',
+      Type: 'LINE',
+      Id: 14,
+      Confidence: 98.64335632324219,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Welcome.',
+      Type: 'LINE',
+      Id: 15,
+      Confidence: 90.87476348876953,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'LOG OUT',
+      Type: 'LINE',
+      Id: 16,
+      Confidence: 99.2991943359375,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account# 1111111',
+      Type: 'LINE',
+      Id: 17,
+      Confidence: 94.7199935913086,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Main Content Footer Menu',
+      Type: 'LINE',
+      Id: 18,
+      Confidence: 99.28775787353516,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'My Account',
+      Type: 'LINE',
+      Id: 19,
+      Confidence: 98.89071655273438,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Dashboard',
+      Type: 'LINE',
+      Id: 20,
+      Confidence: 97.62934112548828,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Reactivate Account',
+      Type: 'LINE',
+      Id: 21,
+      Confidence: 99.5073471069336,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account Information',
+      Type: 'LINE',
+      Id: 22,
+      Confidence: 96.59063720703125,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Our records indicate that your account has been suspended and requires immediate attention',
+      Type: 'LINE',
+      Id: 23,
+      Confidence: 98.59205627441406,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Payment',
+      Type: 'LINE',
+      Id: 24,
+      Confidence: 99.37293243408203,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Please contact us by phone at 949-727-4800. Representatives are available to assist you Monday through',
+      Type: 'LINE',
+      Id: 25,
+      Confidence: 98.56483459472656,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Payment Methods',
+      Type: 'LINE',
+      Id: 26,
+      Confidence: 98.81195831298828,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Friday from 8 am to 6 pm.',
+      Type: 'LINE',
+      Id: 27,
+      Confidence: 97.57089233398438,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Vehicles',
+      Type: 'LINE',
+      Id: 28,
+      Confidence: 98.62197875976562,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Transponders',
+      Type: 'LINE',
+      Id: 29,
+      Confidence: 97.30984497070312,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Statements & Activity',
+      Type: 'LINE',
+      Id: 30,
+      Confidence: 98.15512084960938,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Gift Certificates',
+      Type: 'LINE',
+      Id: 31,
+      Confidence: 99.6809310913086,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Back to Main Content',
+      Type: 'LINE',
+      Id: 32,
+      Confidence: 99.40007019042969,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'FOLLOW US',
+      Type: 'LINE',
+      Id: 33,
+      Confidence: 97.79481506347656,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ACCOUNTS',
+      Type: 'LINE',
+      Id: 34,
+      Confidence: 100,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'TOLLS',
+      Type: 'LINE',
+      Id: 35,
+      Confidence: 98.75235748291016,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'NEWS & ALERTS',
+      Type: 'LINE',
+      Id: 36,
+      Confidence: 98.2103042602539,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'HELP',
+      Type: 'LINE',
+      Id: 37,
+      Confidence: 99.47101593017578,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ABOUT',
+      Type: 'LINE',
+      Id: 38,
+      Confidence: 98.81291961669922,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Closures & Detours',
+      Type: 'LINE',
+      Id: 39,
+      Confidence: 97.67161560058594,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'C',
+      Type: 'WORD',
+      Id: 40,
+      ParentId: 0,
+      Confidence: 69.6993637084961,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'SELECT',
+      Type: 'WORD',
+      Id: 41,
+      ParentId: 1,
+      Confidence: 97.61277770996094,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Contact',
+      Type: 'WORD',
+      Id: 42,
+      ParentId: 2,
+      Confidence: 95.44627380371094,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Us',
+      Type: 'WORD',
+      Id: 43,
+      ParentId: 2,
+      Confidence: 97.57206726074219,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'The',
+      Type: 'WORD',
+      Id: 44,
+      ParentId: 3,
+      Confidence: 100,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'To',
+      Type: 'WORD',
+      Id: 45,
+      ParentId: 3,
+      Confidence: 84.46488952636719,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Roads',
+      Type: 'WORD',
+      Id: 46,
+      ParentId: 4,
+      Confidence: 89.84123229980469,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Search',
+      Type: 'WORD',
+      Id: 47,
+      ParentId: 5,
+      Confidence: 97.75975036621094,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'of',
+      Type: 'WORD',
+      Id: 48,
+      ParentId: 6,
+      Confidence: 98.93743133544922,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Orange',
+      Type: 'WORD',
+      Id: 49,
+      ParentId: 6,
+      Confidence: 99.31015014648438,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'County',
+      Type: 'WORD',
+      Id: 50,
+      ParentId: 6,
+      Confidence: 99.10931396484375,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'HOME',
+      Type: 'WORD',
+      Id: 51,
+      ParentId: 7,
+      Confidence: 98.97157287597656,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ACCOUNTS',
+      Type: 'WORD',
+      Id: 52,
+      ParentId: 8,
+      Confidence: 86.3532485961914,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'TOLLS -',
+      Type: 'WORD',
+      Id: 53,
+      ParentId: 9,
+      Confidence: 44.38383483886719,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'NEWS',
+      Type: 'WORD',
+      Id: 54,
+      ParentId: 10,
+      Confidence: 98.81692504882812,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: '&',
+      Type: 'WORD',
+      Id: 55,
+      ParentId: 10,
+      Confidence: 96.4216079711914,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ALERTS -',
+      Type: 'WORD',
+      Id: 56,
+      ParentId: 10,
+      Confidence: 63.21214294433594,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'HELP',
+      Type: 'WORD',
+      Id: 57,
+      ParentId: 11,
+      Confidence: 73.03176879882812,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'ABOUT',
+      Type: 'WORD',
+      Id: 58,
+      ParentId: 12,
+      Confidence: 98.38552856445312,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'TCA',
+      Type: 'WORD',
+      Id: 59,
+      ParentId: 12,
+      Confidence: 80.95905303955078,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'My',
+      Type: 'WORD',
+      Id: 60,
+      ParentId: 13,
+      Confidence: 99.6786880493164,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account',
+      Type: 'WORD',
+      Id: 61,
+      ParentId: 13,
+      Confidence: 98.84612274169922,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Mock1',
+      Type: 'WORD',
+      Id: 62,
+      ParentId: 14,
+      Confidence: 98.64335632324219,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Welcome.',
+      Type: 'WORD',
+      Id: 63,
+      ParentId: 15,
+      Confidence: 90.87476348876953,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'LOG',
+      Type: 'WORD',
+      Id: 64,
+      ParentId: 16,
+      Confidence: 99.56925201416016,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'OUT',
+      Type: 'WORD',
+      Id: 65,
+      ParentId: 16,
+      Confidence: 99.02912902832031,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account#',
+      Type: 'WORD',
+      Id: 66,
+      ParentId: 17,
+      Confidence: 94.8418197631836,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: '1111111',
+      Type: 'WORD',
+      Id: 67,
+      ParentId: 17,
+      Confidence: 94.59817504882812,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Main',
+      Type: 'WORD',
+      Id: 68,
+      ParentId: 18,
+      Confidence: 100,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Content',
+      Type: 'WORD',
+      Id: 69,
+      ParentId: 18,
+      Confidence: 98.13410949707031,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Footer',
+      Type: 'WORD',
+      Id: 70,
+      ParentId: 18,
+      Confidence: 99.4744644165039,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Menu',
+      Type: 'WORD',
+      Id: 71,
+      ParentId: 18,
+      Confidence: 99.54243469238281,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'My',
+      Type: 'WORD',
+      Id: 72,
+      ParentId: 19,
+      Confidence: 99.787353515625,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account',
+      Type: 'WORD',
+      Id: 73,
+      ParentId: 19,
+      Confidence: 97.99407958984375,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Dashboard',
+      Type: 'WORD',
+      Id: 74,
+      ParentId: 20,
+      Confidence: 97.62934112548828,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Reactivate',
+      Type: 'WORD',
+      Id: 75,
+      ParentId: 21,
+      Confidence: 99.63066864013672,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account',
+      Type: 'WORD',
+      Id: 76,
+      ParentId: 21,
+      Confidence: 99.38401794433594,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Account',
+      Type: 'WORD',
+      Id: 77,
+      ParentId: 22,
+      Confidence: 99.23905944824219,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Information',
+      Type: 'WORD',
+      Id: 78,
+      ParentId: 22,
+      Confidence: 93.94221496582031,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Our',
+      Type: 'WORD',
+      Id: 79,
+      ParentId: 23,
+      Confidence: 97.20719146728516,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'records',
+      Type: 'WORD',
+      Id: 80,
+      ParentId: 23,
+      Confidence: 97.78047943115234,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'indicate',
+      Type: 'WORD',
+      Id: 81,
+      ParentId: 23,
+      Confidence: 99.99635314941406,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'that',
+      Type: 'WORD',
+      Id: 82,
+      ParentId: 23,
+      Confidence: 99.53596496582031,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'your',
+      Type: 'WORD',
+      Id: 83,
+      ParentId: 23,
+      Confidence: 98.4456558227539,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'account',
+      Type: 'WORD',
+      Id: 84,
+      ParentId: 23,
+      Confidence: 98.24113464355469,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'has',
+      Type: 'WORD',
+      Id: 85,
+      ParentId: 23,
+      Confidence: 98.93629455566406,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'been',
+      Type: 'WORD',
+      Id: 86,
+      ParentId: 23,
+      Confidence: 98.80289459228516,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'suspended',
+      Type: 'WORD',
+      Id: 87,
+      ParentId: 23,
+      Confidence: 98.50119018554688,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'and',
+      Type: 'WORD',
+      Id: 88,
+      ParentId: 23,
+      Confidence: 99.22298431396484,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'requires',
+      Type: 'WORD',
+      Id: 89,
+      ParentId: 23,
+      Confidence: 99.42444610595703,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'immediate',
+      Type: 'WORD',
+      Id: 90,
+      ParentId: 23,
+      Confidence: 99.23347473144531,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'attention',
+      Type: 'WORD',
+      Id: 91,
+      ParentId: 23,
+      Confidence: 96.36865234375,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Payment',
+      Type: 'WORD',
+      Id: 92,
+      ParentId: 24,
+      Confidence: 99.37293243408203,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'Please',
+      Type: 'WORD',
+      Id: 93,
+      ParentId: 25,
+      Confidence: 99.43000793457031,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'contact',
+      Type: 'WORD',
+      Id: 94,
+      ParentId: 25,
+      Confidence: 99.33690643310547,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'us',
+      Type: 'WORD',
+      Id: 95,
+      ParentId: 25,
+      Confidence: 96.52597045898438,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'by',
+      Type: 'WORD',
+      Id: 96,
+      ParentId: 25,
+      Confidence: 98.69912719726562,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'phone',
+      Type: 'WORD',
+      Id: 97,
+      ParentId: 25,
+      Confidence: 98.8398208618164,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: 'at',
+      Type: 'WORD',
+      Id: 98,
+      ParentId: 25,
+      Confidence: 97.82820892333984,
+      Geometry: [Object]
+    },
+    {
+      DetectedText: '949-727-4800.',
+      Type: 'WORD',
+      Id: 99,
+      ParentId: 25,
+      Confidence: 98.24176788330078,
+      Geometry: [Object]
+    },
+    ... 40 more items
+  ],
+  TextModelVersion: '3.0'
+}
